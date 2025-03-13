@@ -9,7 +9,5 @@ int main(void) {
   cout << "I WANT SLEEP. SLEEP KODI\n";
   cout << "I WANT SLEEP. SLEEP KODI\n";
   cout << "I WANT SLEEP. SLEEP KODI\n";
-  cout << "I WANT SLEEP. SLEEP KODI\n";
-  cout << "I WANT SLEEP. SLEEP KODI\n";
   return 0;
 }
